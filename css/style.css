@@ -1,0 +1,26 @@
+body{
+    background-image: url("sparkle.gif");
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ; 
+    border: 70px solid transparent;
+    
+    
+    /*padding: auto;*/
+    
+
+
+
+}
+
+p{
+    font-family: 'MV Boli';
+    color: #ffffff;
+    font-size: large;
+    border: 10px solid transparent;
+    /*border-image: url('sample2.png') ;
+    border-image-slice: 1 fill ;
+    border-image-outset: 40px ;*/
+    background: rgba(255,240,245,0.3) ;
+}   
